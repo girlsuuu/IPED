@@ -1,0 +1,416 @@
+{
+  "triples": {
+    "precededBy": { "short": "precededBy", "verbose": "precededBy" },
+    "legislature": { "short": "legislature", "verbose": "legislature" },
+    "areaTotal": { "short": "areaTotal", "verbose": "areaTotal" },
+    "designer": { "short": "designer", "verbose": "designer" },
+    "completionDate": {
+      "short": "completionDate",
+      "verbose": "completionDate"
+    },
+    "floorArea": { "short": "floorArea", "verbose": "floorArea" },
+    "has to its north": {
+      "short": "has to its north",
+      "verbose": "has to its north"
+    },
+    "leaderName": { "short": "leaderName", "verbose": "leaderName" },
+    "foundedBy": { "short": "foundedBy", "verbose": "foundedBy" },
+    "3rd_runway_LengthFeet": {
+      "short": "3rd_runway_LengthFeet",
+      "verbose": "3rd_runway_LengthFeet"
+    },
+    "OCLC_number": { "short": "OCLC_number", "verbose": "OCLC_number" },
+    "was a crew member of": {
+      "short": "was a crew member of",
+      "verbose": "was a crew member of"
+    },
+    "fat": { "short": "fat", "verbose": "fat" },
+    "firstAppearanceInFilm": {
+      "short": "firstAppearanceInFilm",
+      "verbose": "firstAppearanceInFilm"
+    },
+    "abbreviation": { "short": "abbreviation", "verbose": "abbreviation" },
+    "architect": { "short": "architect", "verbose": "architect" },
+    "placeOfBirth": { "short": "placeOfBirth", "verbose": "placeOfBirth" },
+    "outlookRanking": {
+      "short": "outlookRanking",
+      "verbose": "outlookRanking"
+    },
+    "year": { "short": "year", "verbose": "year" },
+    "nickname": { "short": "nickname", "verbose": "nickname" },
+    "affiliations": { "short": "affiliations", "verbose": "affiliations" },
+    "1st_runway_Number": {
+      "short": "1st_runway_Number",
+      "verbose": "1st_runway_Number"
+    },
+    "mainIngredients": {
+      "short": "mainIngredients",
+      "verbose": "mainIngredients"
+    },
+    "birthName": { "short": "birthName", "verbose": "birthName" },
+    "floorCount": { "short": "floorCount", "verbose": "floorCount" },
+    "order": { "short": "order", "verbose": "order" },
+    "distributor": { "short": "distributor", "verbose": "distributor" },
+    "owningOrganisation": {
+      "short": "owningOrganisation",
+      "verbose": "owningOrganisation"
+    },
+    "CODEN_code": { "short": "CODEN_code", "verbose": "CODEN_code" },
+    "has to its northeast": {
+      "short": "has to its northeast",
+      "verbose": "has to its northeast"
+    },
+    "largestCity": { "short": "largestCity", "verbose": "largestCity" },
+    "state": { "short": "state", "verbose": "state" },
+    "governingBody": { "short": "governingBody", "verbose": "governingBody" },
+    "height": { "short": "height", "verbose": "height" },
+    "hubAirport": { "short": "hubAirport", "verbose": "hubAirport" },
+    "address": { "short": "address", "verbose": "address" },
+    "part": { "short": "part", "verbose": "part" },
+    "compete in": { "short": "compete in", "verbose": "compete in" },
+    "publisher": { "short": "publisher", "verbose": "publisher" },
+    "river": { "short": "river", "verbose": "river" },
+    "2nd_runway_SurfaceType": {
+      "short": "2nd_runway_SurfaceType",
+      "verbose": "2nd_runway_SurfaceType"
+    },
+    "awards": { "short": "awards", "verbose": "awards" },
+    "municipality": { "short": "municipality", "verbose": "municipality" },
+    "district": { "short": "district", "verbose": "district" },
+    "ground": { "short": "ground", "verbose": "ground" },
+    "currentTenants": {
+      "short": "currentTenants",
+      "verbose": "currentTenants"
+    },
+    "significantBuilding": {
+      "short": "significantBuilding",
+      "verbose": "significantBuilding"
+    },
+    "jurisdiction": { "short": "jurisdiction", "verbose": "jurisdiction" },
+    "ICAO_Location_Identifier": {
+      "short": "ICAO_Location_Identifier",
+      "verbose": "ICAO_Location_Identifier"
+    },
+    "course": { "short": "course", "verbose": "course" },
+    "languages": { "short": "languages", "verbose": "languages" },
+    "transportAircraft": {
+      "short": "transportAircraft",
+      "verbose": "transportAircraft"
+    },
+    "populationTotal": {
+      "short": "populationTotal",
+      "verbose": "populationTotal"
+    },
+    "senators": { "short": "senators", "verbose": "senators" },
+    "battles": { "short": "battles", "verbose": "battles" },
+    "operatingOrganisation": {
+      "short": "operatingOrganisation",
+      "verbose": "operatingOrganisation"
+    },
+    "director": { "short": "director", "verbose": "director" },
+    "genus": { "short": "genus", "verbose": "genus" },
+    "postalCode": { "short": "postalCode", "verbose": "postalCode" },
+    "motto": { "short": "motto", "verbose": "motto" },
+    "officialSchoolColour": {
+      "short": "officialSchoolColour",
+      "verbose": "officialSchoolColour"
+    },
+    "religion": { "short": "religion", "verbose": "religion" },
+    "was selected by NASA": {
+      "short": "was selected by NASA",
+      "verbose": "was selected by NASA"
+    },
+    "season": { "short": "season", "verbose": "season" },
+    "leader": { "short": "leader", "verbose": "leader" },
+    "firstPublicationYear": {
+      "short": "firstPublicationYear",
+      "verbose": "firstPublicationYear"
+    },
+    "administrativeCounty": {
+      "short": "administrativeCounty",
+      "verbose": "administrativeCounty"
+    },
+    "mediaType": { "short": "mediaType", "verbose": "mediaType" },
+    "birthPlace": { "short": "birthPlace", "verbose": "birthPlace" },
+    "gemstone": { "short": "gemstone", "verbose": "gemstone" },
+    "sportsGoverningBody": {
+      "short": "sportsGoverningBody",
+      "verbose": "sportsGoverningBody"
+    },
+    "architecturalStyle": {
+      "short": "architecturalStyle",
+      "verbose": "architecturalStyle"
+    },
+    "LibraryofCongressClassification": {
+      "short": "LibraryofCongressClassification",
+      "verbose": "LibraryofCongressClassification"
+    },
+    "demonym": { "short": "demonym", "verbose": "demonym" },
+    "class": { "short": "class", "verbose": "class" },
+    "locationCity": { "short": "locationCity", "verbose": "locationCity" },
+    "ISSN_number": { "short": "ISSN_number", "verbose": "ISSN_number" },
+    "title": { "short": "title", "verbose": "title" },
+    "aircraftFighter": {
+      "short": "aircraftFighter",
+      "verbose": "aircraftFighter"
+    },
+    "chancellor": { "short": "chancellor", "verbose": "chancellor" },
+    "latinName": { "short": "latinName", "verbose": "latinName" },
+    "keyPerson": { "short": "keyPerson", "verbose": "keyPerson" },
+    "numberOfMembers": {
+      "short": "numberOfMembers",
+      "verbose": "numberOfMembers"
+    },
+    "1st_runway_LengthMetre": {
+      "short": "1st_runway_LengthMetre",
+      "verbose": "1st_runway_LengthMetre"
+    },
+    "tenant": { "short": "tenant", "verbose": "tenant" },
+    "notableWork": { "short": "notableWork", "verbose": "notableWork" },
+    "category": { "short": "category", "verbose": "category" },
+    "representative": {
+      "short": "representative",
+      "verbose": "representative"
+    },
+    "isPartOf": { "short": "isPartOf", "verbose": "isPartOf" },
+    "spokenIn": { "short": "spokenIn", "verbose": "spokenIn" },
+    "league": { "short": "league", "verbose": "league" },
+    "backup pilot": { "short": "backup pilot", "verbose": "backup pilot" },
+    "region": { "short": "region", "verbose": "region" },
+    "buildingStartDate": {
+      "short": "buildingStartDate",
+      "verbose": "buildingStartDate"
+    },
+    "servingTemperature": {
+      "short": "servingTemperature",
+      "verbose": "servingTemperature"
+    },
+    "commander": { "short": "commander", "verbose": "commander" },
+    "was given the 'Technical Campus' status by": {
+      "short": "was given the 'Technical Campus' status by",
+      "verbose": "was given the 'Technical Campus' status by"
+    },
+    "ethnicGroup": { "short": "ethnicGroup", "verbose": "ethnicGroup" },
+    "runwayLength": { "short": "runwayLength", "verbose": "runwayLength" },
+    "developer": { "short": "developer", "verbose": "developer" },
+    "architecture": { "short": "architecture", "verbose": "architecture" },
+    "added to the National Register of Historic Places": {
+      "short": "added to the National Register of Historic Places",
+      "verbose": "added to the National Register of Historic Places"
+    },
+    "fossil": { "short": "fossil", "verbose": "fossil" },
+    "family": { "short": "family", "verbose": "family" },
+    "child": { "short": "child", "verbose": "child" },
+    "academicStaffSize": {
+      "short": "academicStaffSize",
+      "verbose": "academicStaffSize"
+    },
+    "owner": { "short": "owner", "verbose": "owner" },
+    "operator": { "short": "operator", "verbose": "operator" },
+    "residence": { "short": "residence", "verbose": "residence" },
+    "runwayName": { "short": "runwayName", "verbose": "runwayName" },
+    "inaugurationDate": {
+      "short": "inaugurationDate",
+      "verbose": "inaugurationDate"
+    },
+    "nearestCity": { "short": "nearestCity", "verbose": "nearestCity" },
+    "elevationAboveTheSeaLevel_(in_metres)": {
+      "short": "elevationAboveTheSeaLevel_(in_metres)",
+      "verbose": "elevationAboveTheSeaLevel_(in_metres)"
+    },
+    "fullName": { "short": "fullName", "verbose": "fullName" },
+    "city": { "short": "city", "verbose": "city" },
+    "youthclub": { "short": "youthclub", "verbose": "youthclub" },
+    "has to its southwest": {
+      "short": "has to its southwest",
+      "verbose": "has to its southwest"
+    },
+    "starring": { "short": "starring", "verbose": "starring" },
+    "followedBy": { "short": "followedBy", "verbose": "followedBy" },
+    "served as Chief of the Astronaut Office in": {
+      "short": "served as Chief of the Astronaut Office in",
+      "verbose": "served as Chief of the Astronaut Office in"
+    },
+    "chairman": { "short": "chairman", "verbose": "chairman" },
+    "ReferenceNumber in the National Register of Historic Places": {
+      "short": "ReferenceNumber in the National Register of Historic Places",
+      "verbose": "ReferenceNumber in the National Register of Historic Places"
+    },
+    "populationDensity": {
+      "short": "populationDensity",
+      "verbose": "populationDensity"
+    },
+    "almaMater": { "short": "almaMater", "verbose": "almaMater" },
+    "dedicatedTo": { "short": "dedicatedTo", "verbose": "dedicatedTo" },
+    "IATA_Location_Identifier": {
+      "short": "IATA_Location_Identifier",
+      "verbose": "IATA_Location_Identifier"
+    },
+    "officialLanguage": {
+      "short": "officialLanguage",
+      "verbose": "officialLanguage"
+    },
+    "bird": { "short": "bird", "verbose": "bird" },
+    "editor": { "short": "editor", "verbose": "editor" },
+    "areaCode": { "short": "areaCode", "verbose": "areaCode" },
+    "chairperson": { "short": "chairperson", "verbose": "chairperson" },
+    "series": { "short": "series", "verbose": "series" },
+    "fullname": { "short": "fullname", "verbose": "fullname" },
+    "country": { "short": "country", "verbose": "country" },
+    "ingredient": { "short": "ingredient", "verbose": "ingredient" },
+    "voice": { "short": "voice", "verbose": "voice" },
+    "author": { "short": "author", "verbose": "author" },
+    "parentCompany": { "short": "parentCompany", "verbose": "parentCompany" },
+    "has to its northwest": {
+      "short": "has to its northwest",
+      "verbose": "has to its northwest"
+    },
+    "founder": { "short": "founder", "verbose": "founder" },
+    "nativeName": { "short": "nativeName", "verbose": "nativeName" },
+    "numberOfUndergraduateStudents": {
+      "short": "numberOfUndergraduateStudents",
+      "verbose": "numberOfUndergraduateStudents"
+    },
+    "regionServed": { "short": "regionServed", "verbose": "regionServed" },
+    "protein": { "short": "protein", "verbose": "protein" },
+    "president": { "short": "president", "verbose": "president" },
+    "areaOfWater": { "short": "areaOfWater", "verbose": "areaOfWater" },
+    "3rd_runway_SurfaceType": {
+      "short": "3rd_runway_SurfaceType",
+      "verbose": "3rd_runway_SurfaceType"
+    },
+    "alternativeName": {
+      "short": "alternativeName",
+      "verbose": "alternativeName"
+    },
+    "location": { "short": "location", "verbose": "location" },
+    "anthem": { "short": "anthem", "verbose": "anthem" },
+    "campus": { "short": "campus", "verbose": "campus" },
+    "1st_runway_SurfaceType": {
+      "short": "1st_runway_SurfaceType",
+      "verbose": "1st_runway_SurfaceType"
+    },
+    "numberOfPages": { "short": "numberOfPages", "verbose": "numberOfPages" },
+    "creator": { "short": "creator", "verbose": "creator" },
+    "affiliation": { "short": "affiliation", "verbose": "affiliation" },
+    "ISBN_number": { "short": "ISBN_number", "verbose": "ISBN_number" },
+    "attackAircraft": {
+      "short": "attackAircraft",
+      "verbose": "attackAircraft"
+    },
+    "club": { "short": "club", "verbose": "club" },
+    "5th_runway_Number": {
+      "short": "5th_runway_Number",
+      "verbose": "5th_runway_Number"
+    },
+    "award": { "short": "award", "verbose": "award" },
+    "established": { "short": "established", "verbose": "established" },
+    "4th_runway_LengthFeet": {
+      "short": "4th_runway_LengthFeet",
+      "verbose": "4th_runway_LengthFeet"
+    },
+    "genre": { "short": "genre", "verbose": "genre" },
+    "chief": { "short": "chief", "verbose": "chief" },
+    "elevationAboveTheSeaLevel_(in_feet)": {
+      "short": "elevationAboveTheSeaLevel_(in_feet)",
+      "verbose": "elevationAboveTheSeaLevel_(in_feet)"
+    },
+    "higher": { "short": "higher", "verbose": "higher" },
+    "creatorOfDish": { "short": "creatorOfDish", "verbose": "creatorOfDish" },
+    "capital": { "short": "capital", "verbose": "capital" },
+    "aircraftHelicopter": {
+      "short": "aircraftHelicopter",
+      "verbose": "aircraftHelicopter"
+    },
+    "rector": { "short": "rector", "verbose": "rector" },
+    "placeOfDeath": { "short": "placeOfDeath", "verbose": "placeOfDeath" },
+    "EISSN_number": { "short": "EISSN_number", "verbose": "EISSN_number" },
+    "numberOfRooms": { "short": "numberOfRooms", "verbose": "numberOfRooms" },
+    "elevationAboveTheSeaLevel": {
+      "short": "elevationAboveTheSeaLevel",
+      "verbose": "elevationAboveTheSeaLevel"
+    },
+    "areaOfLand": { "short": "areaOfLand", "verbose": "areaOfLand" },
+    "headquarter": { "short": "headquarter", "verbose": "headquarter" },
+    "numberOfStudents": {
+      "short": "numberOfStudents",
+      "verbose": "numberOfStudents"
+    },
+    "nationality": { "short": "nationality", "verbose": "nationality" },
+    "product": { "short": "product", "verbose": "product" },
+    "countySeat": { "short": "countySeat", "verbose": "countySeat" },
+    "dishVariation": { "short": "dishVariation", "verbose": "dishVariation" },
+    "numberOfPostgraduateStudents": {
+      "short": "numberOfPostgraduateStudents",
+      "verbose": "numberOfPostgraduateStudents"
+    },
+    "leaderParty": { "short": "leaderParty", "verbose": "leaderParty" },
+    "mayor": { "short": "mayor", "verbose": "mayor" },
+    "patronSaint": { "short": "patronSaint", "verbose": "patronSaint" },
+    "academicDiscipline": {
+      "short": "academicDiscipline",
+      "verbose": "academicDiscipline"
+    },
+    "hometown": { "short": "hometown", "verbose": "hometown" },
+    "deathPlace": { "short": "deathPlace", "verbose": "deathPlace" },
+    "LCCN_number": { "short": "LCCN_number", "verbose": "LCCN_number" },
+    "language": { "short": "language", "verbose": "language" },
+    "significantProject": {
+      "short": "significantProject",
+      "verbose": "significantProject"
+    },
+    "dean": { "short": "dean", "verbose": "dean" },
+    "currency": { "short": "currency", "verbose": "currency" },
+    "doctoralAdvisor": {
+      "short": "doctoralAdvisor",
+      "verbose": "doctoralAdvisor"
+    },
+    "cityServed": { "short": "cityServed", "verbose": "cityServed" },
+    "material": { "short": "material", "verbose": "material" },
+    "1st_runway_LengthFeet": {
+      "short": "1st_runway_LengthFeet",
+      "verbose": "1st_runway_LengthFeet"
+    },
+    "sportsOffered": { "short": "sportsOffered", "verbose": "sportsOffered" },
+    "crewMembers": { "short": "crewMembers", "verbose": "crewMembers" },
+    "governmentType": {
+      "short": "governmentType",
+      "verbose": "governmentType"
+    },
+    "bedCount": { "short": "bedCount", "verbose": "bedCount" },
+    "headquarters": { "short": "headquarters", "verbose": "headquarters" },
+    "has to its southeast": {
+      "short": "has to its southeast",
+      "verbose": "has to its southeast"
+    },
+    "administrativeArrondissement": {
+      "short": "administrativeArrondissement",
+      "verbose": "administrativeArrondissement"
+    },
+    "occupation": { "short": "occupation", "verbose": "occupation" },
+    "has to its west": {
+      "short": "has to its west",
+      "verbose": "has to its west"
+    },
+    "yearOfConstruction": {
+      "short": "yearOfConstruction",
+      "verbose": "yearOfConstruction"
+    },
+    "broadcastedBy": { "short": "broadcastedBy", "verbose": "broadcastedBy" },
+    "influencedBy": { "short": "influencedBy", "verbose": "influencedBy" },
+    "leaderTitle": { "short": "leaderTitle", "verbose": "leaderTitle" },
+    "champions": { "short": "champions", "verbose": "champions" },
+    "ethnicGroups": { "short": "ethnicGroups", "verbose": "ethnicGroups" },
+    "neighboringMunicipality": {
+      "short": "neighboringMunicipality",
+      "verbose": "neighboringMunicipality"
+    },
+    "foundationPlace": {
+      "short": "foundationPlace",
+      "verbose": "foundationPlace"
+    },
+    "manager": { "short": "manager", "verbose": "manager" },
+    "chairmanTitle": { "short": "chairmanTitle", "verbose": "chairmanTitle" }
+  },
+  "relations": {}
+}

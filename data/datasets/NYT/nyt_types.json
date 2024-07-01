@@ -1,0 +1,101 @@
+{
+  "triples": {
+    "/business/company/advisors": {
+      "short": "/business/company/advisors",
+      "verbose": "/business/company/advisors"
+    },
+    "/business/company/founders": {
+      "short": "/business/company/founders",
+      "verbose": "/business/company/founders"
+    },
+    "/business/company/industry": {
+      "short": "/business/company/industry",
+      "verbose": "/business/company/industry"
+    },
+    "/business/company/major_shareholders": {
+      "short": "/business/company/major_shareholders",
+      "verbose": "/business/company/major_shareholders"
+    },
+    "/business/company/place_founded": {
+      "short": "/business/company/place_founded",
+      "verbose": "/business/company/place_founded"
+    },
+    "/business/company_shareholder/major_shareholder_of": {
+      "short": "/business/company_shareholder/major_shareholder_of",
+      "verbose": "/business/company_shareholder/major_shareholder_of"
+    },
+    "/business/person/company": {
+      "short": "/business/person/company",
+      "verbose": "/business/person/company"
+    },
+    "/location/administrative_division/country": {
+      "short": "/location/administrative_division/country",
+      "verbose": "/location/administrative_division/country"
+    },
+    "/location/country/administrative_divisions": {
+      "short": "/location/country/administrative_divisions",
+      "verbose": "/location/country/administrative_divisions"
+    },
+    "/location/country/capital": {
+      "short": "/location/country/capital",
+      "verbose": "/location/country/capital"
+    },
+    "/location/location/contains": {
+      "short": "/location/location/contains",
+      "verbose": "/location/location/contains"
+    },
+    "/location/neighborhood/neighborhood_of": {
+      "short": "/location/neighborhood/neighborhood_of",
+      "verbose": "/location/neighborhood/neighborhood_of"
+    },
+    "/people/deceased_person/place_of_death": {
+      "short": "/people/deceased_person/place_of_death",
+      "verbose": "/people/deceased_person/place_of_death"
+    },
+    "/people/ethnicity/geographic_distribution": {
+      "short": "/people/ethnicity/geographic_distribution",
+      "verbose": "/people/ethnicity/geographic_distribution"
+    },
+    "/people/ethnicity/people": {
+      "short": "/people/ethnicity/people",
+      "verbose": "/people/ethnicity/people"
+    },
+    "/people/person/children": {
+      "short": "/people/person/children",
+      "verbose": "/people/person/children"
+    },
+    "/people/person/ethnicity": {
+      "short": "/people/person/ethnicity",
+      "verbose": "/people/person/ethnicity"
+    },
+    "/people/person/nationality": {
+      "short": "/people/person/nationality",
+      "verbose": "/people/person/nationality"
+    },
+    "/people/person/place_lived": {
+      "short": "/people/person/place_lived",
+      "verbose": "/people/person/place_lived"
+    },
+    "/people/person/place_of_birth": {
+      "short": "/people/person/place_of_birth",
+      "verbose": "/people/person/place_of_birth"
+    },
+    "/people/person/profession": {
+      "short": "/people/person/profession",
+      "verbose": "/people/person/profession"
+    },
+    "/people/person/religion": {
+      "short": "/people/person/religion",
+      "verbose": "/people/person/religion"
+    },
+    "/sports/sports_team/location": {
+      "short": "/sports/sports_team/location",
+      "verbose": "/sports/sports_team/location"
+    },
+    "/sports/sports_team_location/teams": {
+      "short": "/sports/sports_team_location/teams",
+      "verbose": "/sports/sports_team_location/teams"
+    }
+  },
+  "relations": {}
+}
